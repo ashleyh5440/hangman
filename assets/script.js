@@ -9,6 +9,13 @@
 // When a user refreshes or returns to the brower page, the win and loss counts should persist.
 
 
+// words to choose from
+const movies = ["Hocus Pocus", "Friday the 13th", "Twitches", "Halloween Town"];
+
+const candy = ["candy corn", "jelly beans", "chocolate bar", "gummy bears", "smarties", "candy apple"];
+
+const monsters = ["zombie", "vampire", "killer clown", "werewolf", "ghost", "mummy", "skeleton"];
+
 
 
 

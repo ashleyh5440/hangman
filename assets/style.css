@@ -5,20 +5,16 @@
 h1 {
     color: orange;
     text-align: center;
-    font-size: 25px;
+    font-size: 35px;
     margin: 5%;
-}
-
-.category-buttons {
-  display: flex;
-  justify-content: space-between;
 }
 
 button {
     color: black;
-    background-color: greenyellow;
+    background-color: blueviolet;
     padding: 1%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
 }
 
 .container {
@@ -30,8 +26,3 @@ button {
     text-align: center;
 }
 
-#start-button {
-    margin: 5% 3% 3% 3%;
-    font-size: 20px;
-    background-color: blueviolet;
-}

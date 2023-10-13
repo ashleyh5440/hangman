@@ -1,0 +1,22 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    font-size: 25px;
+    margin: 5%;
+}
+
+.category-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+    color: black;
+    background-color: greenyellow;
+    padding: 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
